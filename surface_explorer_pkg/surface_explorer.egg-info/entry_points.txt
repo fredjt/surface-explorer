@@ -1,2 +1,0 @@
-[console_scripts]
-surface-explorer = surface_explorer.__main__:main
